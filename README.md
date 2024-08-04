@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # App_movies
 >>>>>>> ea09249995d746d1f139f368e23411c6a7ff6c40
+=======
+# App_movies
+>>>>>>> 68f84d41ac4f46b7b55db61e18fe58386c0c1190
