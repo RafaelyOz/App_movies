@@ -1,5 +1,6 @@
 import { Movie } from "@/types"
 import StarRating from "../StarRating";
+import './index.scss';
 
 export interface Props {
     movie: Movie
@@ -25,6 +26,10 @@ export default function MovieCard(props: Props) {
                     <p className='description'>
                         {movie.overview}
                     </p>
+
+                    <button className="btn-default">
+                        ver mais
+                    </button>
 
                 </div>
             </div>
