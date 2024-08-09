@@ -31,7 +31,7 @@ export default function MovieList(){
     }
 
     return(
-        <ul className="MovieList">
+        <ul className="movie-list">
             { movies.map((movie)=>
           
                 <MovieCard
